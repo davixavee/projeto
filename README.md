@@ -1,3 +1,6 @@
 # projeto webcarros
 
-<h3><n>O nosso trabalho se trata de carros, como se fosse uma espécie de Webmotors. Uma catalogação de veículos automotores, de porte grande e pequeno, tal como motos, carros, furgões, van, caminhões, camionetes, peruas, superesportivos, hiperesportivos, entre outros...</n></h3>
+<h2><n>O nosso trabalho se trata de um catálogo de automotores, como se fosse uma espécie de Webmotors.</n></h2>
+
+<h3><n>Esse catálogo vai contar com varias categorias de automotores grandes e pequenos(motos, carros, furgões, caminhões, wagon, etc...)</n></h3>
+<h3><n>O nosso trabalho se trata de um catálogo de carros, como se fosse uma espécie de Webmotors.</n></h3>
