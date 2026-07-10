@@ -1,8 +1,8 @@
 # projeto webcarros
 
-<h2><n>O nosso trabalho se trata de um catálogo de automotores, onde o público pode ver e postar seus carros favoritos</n></h2>
+<h1><n>O nosso trabalho se trata de um catálogo de automotores, onde o público pode ver e postar seus carros favoritos</n></h1>
 
 <h3>O catálogo vai contar com varias categorias de automóveis grandes, médios e pequenos (motos, carros, furgões, caminhões, wagon, etc...).
-Para catalogar seu carro, o dono vai precisar preencher informações, sendo elas, email, CPF, placa do veículo, documentação, número do chassis, ano de fabricação, modelo do automóvel, estado do veículo. Cada CPF poderá ter, no máximo, 6 automóveis no site, e cada CNPJ terá, no máximo, 250 automóveis no site. </h3>
+Para catalogar o carro, o dono vai precisar preencher informações para o login, o nome, email, CPF ou CNPJ e criar uma senha, e informações para o cadastramento do automóvel, sendo elas, placa do veículo, cor, ano de fabricação, modelo, quilometragem e câmbio. O dono será obrigado a colocar as fotos e adicionar uma descrição. Cada CPF poderá ter, no máximo, 6 automóveis cadastrados, e cada CNPJ terá, no máximo, 250 automóveis cadastrados.</h3>
 
-<h3>O nosso trabalho se trata de um catálogo de carros, como se fosse uma espécie de Webmotors.</h3>
+<h3>O público que vai ver os veículos postados, terá acesso a data da publicação, todas as informações do veículo, a descrição e fotos. Ele vai poder favoritar veículos, remover favoritos, </h3>
